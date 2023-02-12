@@ -1,4 +1,4 @@
-// method get string array and return string array with length of element <= definite length 
+﻿// method get string array and return string array with length of element <= definite length 
 string[] GetArrayWithElementsNeededLength(string[] array, int elementLength)
 {
     string[] outString = new string[array.Length];
